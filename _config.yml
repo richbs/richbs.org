@@ -29,12 +29,10 @@ twitter_username: richbs
 github_username:  richbs
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
